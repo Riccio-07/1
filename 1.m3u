@@ -72,9 +72,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1,Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 
-#EXTINF:-1,Filmbox Arthouse
-http://158.160.149.81:8080/1967/index.m3u8
-
 #EXTINF:-1,Kino 24
 https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 
@@ -82,13 +79,13 @@ https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
 
 #EXTINF:-1,Start World HD
-https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+http://178.217.72.66:8080/START_World/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,Start Air HD
-http://158.160.149.81:8080/8173/index.m3u8
+#EXTINF:-1,Star Cinema HD
+http://77.235.1.19:8000/play/a043/index.m3u8
 
-#EXTINF:-1,Еврокино
-http://31.210.208.171:8080/evrokino/index.m3u8?token=+W2MSER
+#EXTINF:-1,Star Family HD
+http://77.235.1.19:8000/play/a042/index.m3u8
 
 #EXTINF:-1,Viju TV1000
 http://178.134.1.158:8081/tv1000/index.m3u8
@@ -96,32 +93,23 @@ http://178.134.1.158:8081/tv1000/index.m3u8
 #EXTINF:-1,Viju TV1000 Action
 http://178.134.1.158:8081/tv1000action/index.m3u8
 
-#EXTINF:-1,Scream
-http://158.160.149.81:8080/8229/index.m3u8
+#EXTINF:-1,RED THRILLER
+http://95.85.109.219:7000/play/a06h
 
-#EXTINF:-1 Киноужас
+#EXTINF:-1,Киноужас
 http://178.217.72.66:8080/kinoujas/index.m3u8
 
 #EXTINF:-1,НСТ
 http://178.217.72.66:8080/NSTV/index.m3u8
 
-#EXTINF:-1,FAN HD
-http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
-
 #EXTINF:-1,SeleCaoTV 1
 https://132544.edgevideo.ru/streams/132544_951371/playlist.m3u8
 
+#EXTINF:-1,SeleCaoTV 2
+https://132544.edgevideo.ru/streams/132544_954167/playlist.m3u8
+
 #EXTINF:-1,2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-
-#EXTINF:-1,7 TV
-http://v4.proofix.ru:80/7tv-live/index.m3u8
-
-#EXTINF:-1,E HD
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,ТВ-21
-http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
 
 #EXTINF:-1,Комедия
 http://178.217.72.66:8080/Komediya/index.m3u8
@@ -129,9 +117,24 @@ http://178.217.72.66:8080/Komediya/index.m3u8
 #EXTINF:-1,Кино 1 Int.
 http://kino-1.catcast.tv/content/38617/index.m3u8
 
-#EXTINF:-1,Мир сериала
-http://31.148.48.15:80/Mir_Seriala/index.m3u8
-
 #EXTINF:-1,Мосфильм. Золотая коллекция
 http://178.217.72.66:8080/mosfilm/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,.red
+http://178.124.152.238:8088/sony
+
+#EXTINF:-1,.sci-fi
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
+
+#EXTINF:-1,Amedia 1
+http://sc.id-tv.kz/A1.m3u8
+
+#EXTINF:-1,Amedia 2
+http://sc.id-tv.kz/A2.m3u8
+
+#EXTINF:-1,Amedia Hit
+http://85.117.61.97:8000/play/a015/index.m3u8
+
+#EXTINF:-1,Фильмы | VHS TV
+https://autopilot.catcast.tv/content/47609/index.m3u8?token=a7a1c0f6c5be410c6b6f2f11f150e011
 
